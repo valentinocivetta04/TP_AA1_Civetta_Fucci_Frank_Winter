@@ -1,0 +1,15 @@
+# Ítems 1, 2 y 3 (entrega 30/10)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn   # opcional, solo si balanceás clases
+jupyter            # o ipykernel, para correr el notebook
+
+# Ítems 4 a 9 (descomentar cuando lleguen)
+# optuna           # ítem 4, si no usás GridSearchCV
+# shap             # ítem 5
+# pycaret          # ítem 6
+# tensorflow       # ítem 7
+# joblib           # ítem 9, para guardar el modelo
