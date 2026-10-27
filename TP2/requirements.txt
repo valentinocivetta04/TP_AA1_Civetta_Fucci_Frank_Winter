@@ -4,6 +4,8 @@ pandas
 matplotlib
 seaborn
 cartopy            # mapa de Australia con las ciudades (ítem 1)
+OSMPythonTools     # contorno de Australia de OpenStreetMap para el segundo mapa (ítem 1)
+statsmodels        # ARIMA para imputar series de tiempo (ítem 1)
 scikit-learn
 imbalanced-learn   # opcional, solo si balanceás clases
 jupyter            # o ipykernel, para correr el notebook
