@@ -14,5 +14,5 @@ jupyter            # o ipykernel, para correr el notebook
 optuna           # ítem 4, si no usás GridSearchCV
 shap               # ítem 5
 pycaret            # ítem 6
-# tensorflow       # ítem 7
+tensorflow         # ítem 7
 # joblib           # ítem 9, para guardar el modelo
